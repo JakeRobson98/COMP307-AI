@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Comp307_Project1:jar3">
+    <output-path>$PROJECT_DIR$/src/part3</output-path>
+    <root id="archive" name="Comp307_Project1.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/part3/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Comp307_Project1" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,49 @@
+Backprop Neural Network Simulator
+ Version 5.0
+ (C) 2000 Mengjie Zhang, VUW
+ mengjie@mcs.vuw.ac.nz
+epoch = 1, mse = 0.168, Percentage = 50/75 = 66.67%
+epoch = 2, mse = 0.190, Percentage = 43/75 = 57.33%
+epoch = 3, mse = 0.192, Percentage = 43/75 = 57.33%
+epoch = 4, mse = 0.190, Percentage = 44/75 = 58.67%
+epoch = 5, mse = 0.186, Percentage = 45/75 = 60.00%
+epoch = 6, mse = 0.183, Percentage = 45/75 = 60.00%
+epoch = 7, mse = 0.178, Percentage = 46/75 = 61.33%
+epoch = 8, mse = 0.172, Percentage = 48/75 = 64.00%
+epoch = 9, mse = 0.165, Percentage = 50/75 = 66.67%
+epoch = 10, mse = 0.158, Percentage = 52/75 = 69.33%
+epoch = 11, mse = 0.151, Percentage = 52/75 = 69.33%
+epoch = 12, mse = 0.145, Percentage = 53/75 = 70.67%
+epoch = 13, mse = 0.142, Percentage = 53/75 = 70.67%
+epoch = 14, mse = 0.141, Percentage = 53/75 = 70.67%
+epoch = 15, mse = 0.139, Percentage = 54/75 = 72.00%
+epoch = 16, mse = 0.137, Percentage = 54/75 = 72.00%
+epoch = 17, mse = 0.133, Percentage = 55/75 = 73.33%
+epoch = 18, mse = 0.128, Percentage = 56/75 = 74.67%
+epoch = 19, mse = 0.123, Percentage = 57/75 = 76.00%
+epoch = 20, mse = 0.115, Percentage = 57/75 = 76.00%
+epoch = 21, mse = 0.104, Percentage = 60/75 = 80.00%
+epoch = 22, mse = 0.091, Percentage = 63/75 = 84.00%
+epoch = 23, mse = 0.078, Percentage = 65/75 = 86.67%
+epoch = 24, mse = 0.067, Percentage = 69/75 = 92.00%
+epoch = 25, mse = 0.058, Percentage = 71/75 = 94.67%
+epoch = 26, mse = 0.050, Percentage = 72/75 = 96.00%
+epoch = 27, mse = 0.043, Percentage = 72/75 = 96.00%
+epoch = 28, mse = 0.038, Percentage = 72/75 = 96.00%
+epoch = 29, mse = 0.034, Percentage = 72/75 = 96.00%
+epoch = 30, mse = 0.029, Percentage = 72/75 = 96.00%
+epoch = 31, mse = 0.025, Percentage = 74/75 = 98.67%
+epoch = 32, mse = 0.022, Percentage = 74/75 = 98.67%
+epoch = 33, mse = 0.020, Percentage = 74/75 = 98.67%
+epoch = 34, mse = 0.018, Percentage = 74/75 = 98.67%
+epoch = 35, mse = 0.016, Percentage = 74/75 = 98.67%
+epoch = 36, mse = 0.014, Percentage = 74/75 = 98.67%
+epoch = 37, mse = 0.013, Percentage = 74/75 = 98.67%
+epoch = 38, mse = 0.013, Percentage = 74/75 = 98.67%
+epoch = 39, mse = 0.013, Percentage = 73/75 = 97.33%
+epoch = 40, mse = 0.013, Percentage = 73/75 = 97.33%
+epoch = 41, mse = 0.012, Percentage = 73/75 = 97.33%
+epoch = 42, mse = 0.012, Percentage = 73/75 = 97.33%
+epoch = 43, mse = 0.011, Percentage = 73/75 = 97.33%
+epoch = 44, mse = 0.009, Percentage = 75/75 = 100.00%
+ending
